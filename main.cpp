@@ -1,5 +1,10 @@
 #include <cstdio>
 
+void h()
+{
+    printf("Hello, Pull Request");
+}
+
 void g()
 {
     printf("Hello, Branch");
