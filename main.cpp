@@ -1,7 +1,11 @@
 #include <cstdio>
 
-void f() {
+void f()
+{
     printf("Hello, World!");
 }
 
-int main() {}
+int main()
+{
+    f();
+}
